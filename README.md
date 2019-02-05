@@ -54,6 +54,8 @@ A list of resources to help you git awesome. Please PR anything I missed.
 
 [Git Happens](http://jessitron.github.io/git-happens/)
 
+[Git with Azure DevOps Repos](https://docs.microsoft.com/en-us/azure/devops/repos/git/)
+
 ## Hands on Labs
 
 [Github - Try Git](http://try.github.io/)
