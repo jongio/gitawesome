@@ -56,6 +56,8 @@ A list of resources to help you git awesome. Please PR anything I missed.
 
 [Git with Azure DevOps Repos](https://docs.microsoft.com/en-us/azure/devops/repos/git/)
 
+[Oh shit, git!](http://ohshitgit.com/)
+
 ## Hands on Labs
 
 [Github - Try Git](http://try.github.io/)
