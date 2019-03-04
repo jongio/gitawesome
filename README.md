@@ -58,6 +58,8 @@ A list of resources to help you git awesome. Please PR anything I missed.
 
 [Oh shit, git!](http://ohshitgit.com/)
 
+[Think Like (a) Git](http://think-like-a-git.net/)
+
 ## Hands on Labs
 
 [Github - Try Git](http://try.github.io/)
