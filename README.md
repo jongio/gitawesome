@@ -60,6 +60,8 @@ A list of resources to help you git awesome. Please PR anything I missed.
 
 [Oh shit, git!](http://ohshitgit.com/)
 
+[git rebase in depth](https://git-rebase.io/)
+
 [Think Like (a) Git](http://think-like-a-git.net/)
 
 ## Hands on Labs
