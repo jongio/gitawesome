@@ -48,6 +48,8 @@ A list of resources to help you git awesome. Please PR anything I missed.
 
 [Git Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 
+[Dangit, git!](http://dangitgit.com/)
+
 [Git in 30 Minutes](https://tutorialzine.com/2016/06/learn-git-in-30-minutes)
 
 [How to Teach Git](https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html)
@@ -59,6 +61,8 @@ A list of resources to help you git awesome. Please PR anything I missed.
 [Oh shit, git!](http://ohshitgit.com/)
 
 [git rebase in depth](https://git-rebase.io/)
+
+[Think Like (a) Git](http://think-like-a-git.net/)
 
 ## Hands on Labs
 
