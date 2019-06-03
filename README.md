@@ -42,6 +42,8 @@ A list of resources to help you git awesome. Please PR anything I missed.
 
 ## Guides
 
+[Flight rules for git](https://github.com/k88hudson/git-flight-rules)
+
 [Git Simple Guide](http://rogerdudler.github.io/git-guide/)
 
 [Git Visual Reference](http://marklodato.github.io/visual-git-guide/index-en.html)
