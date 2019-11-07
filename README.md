@@ -42,6 +42,8 @@ A list of resources to help you git awesome. Please PR anything I missed.
 
 ## Guides
 
+[The beginner’s guide to Git & GitHub](https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/)
+
 [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
 
 [Git Simple Guide](http://rogerdudler.github.io/git-guide/)
