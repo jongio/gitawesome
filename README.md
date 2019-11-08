@@ -34,6 +34,20 @@ A list of resources to help you git awesome. Please PR anything I missed.
 
 [Git Fundamentals](https://www.git-tower.com/learn/git/videos)
 
+[egghead.io Git Courses and Tips](https://egghead.io/browse/tools/git)
+
+[Katacoda: Learn Git Version Control](https://www.katacoda.com/courses/git)
+
+[Codecademy: Learn Git](https://www.codecademy.com/learn/learn-git)
+
+[Atlassian: Getting Git Right](https://www.atlassian.com/git)
+
+[Udemy: Getting Started with Git](https://www.udemy.com/course/git-started-with-github/)
+
+[Udemy: The Ultimate Git 5-day Challenge](https://www.udemy.com/course/the-ultimate-git-5-day-challenge/)
+
+[Udemy: Command Line Essentials: Git Bash for Windows](https://www.udemy.com/course/git-bash/)
+
 ## Books
 
 [ProGit Book](https://git-scm.com/book/en/v2)
