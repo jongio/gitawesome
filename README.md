@@ -34,19 +34,23 @@ A list of resources to help you git awesome. Please PR anything I missed.
 
 [Git Fundamentals](https://www.git-tower.com/learn/git/videos)
 
-[egghead.io Git Courses and Tips](https://egghead.io/browse/tools/git)
-
 [Katacoda: Learn Git Version Control](https://www.katacoda.com/courses/git)
 
 [Codecademy: Learn Git](https://www.codecademy.com/learn/learn-git)
 
 [Atlassian: Getting Git Right](https://www.atlassian.com/git)
 
-[Udemy: Getting Started with Git](https://www.udemy.com/course/git-started-with-github/)
+#### Egghead.io
+[Git Courses and Tips](https://egghead.io/browse/tools/git)
 
-[Udemy: The Ultimate Git 5-day Challenge](https://www.udemy.com/course/the-ultimate-git-5-day-challenge/)
+[Productive Git for Developers](https://egghead.io/courses/productive-git-for-developers)
 
-[Udemy: Command Line Essentials: Git Bash for Windows](https://www.udemy.com/course/git-bash/)
+#### Udemy
+[Getting Started with Git](https://www.udemy.com/course/git-started-with-github/)
+
+[The Ultimate Git 5-day Challenge](https://www.udemy.com/course/the-ultimate-git-5-day-challenge/)
+
+[Command Line Essentials: Git Bash for Windows](https://www.udemy.com/course/git-bash/)
 
 ## Books
 
@@ -55,6 +59,12 @@ A list of resources to help you git awesome. Please PR anything I missed.
 [Git Basics](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
 
 ## Guides
+
+[Awesome Git Hooks](https://github.com/CompSciLauren/awesome-git-hooks)
+
+[Awesome Git Actions](https://github.com/sdras/awesome-actions)
+
+[Awesome Git Addons](https://github.com/stevemao/awesome-git-addons)
 
 [The beginner’s guide to Git & GitHub](https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/)
 
