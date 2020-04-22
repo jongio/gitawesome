@@ -92,6 +92,8 @@ A list of resources to help you git awesome. Please PR anything I missed.
 
 [Think Like (a) Git](http://think-like-a-git.net/)
 
+[How to undo (almost) anything with Git](https://github.blog/2015-06-08-how-to-undo-almost-anything-with-git/)
+
 ## Hands on Labs
 
 [Github - Try Git](http://try.github.io/)
